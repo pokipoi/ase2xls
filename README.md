@@ -1,3 +1,6 @@
+### 该程序将photoshop等adobe的ase文件转换为xls表格
+首先在ps中将aco另存为ase文件，然后运行gui版本的程序，拖拽文件后执行
+
 ### 将aco文件转换为notion数据库的前置准备脚本
 # 使用
 ### 将待转换ase文件替换掉sample.ase，运行ase2xls，程序会输出color.json与color_converted.xlsx,在vscode中显示xls需要安装插件
