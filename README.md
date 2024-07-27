@@ -1,8 +1,8 @@
 # 最新更新
 ### 该程序将photoshop等adobe的ase文件转换为xls表格
 我新编写了可以执行的exe文件
-首先在ps中将aco另存为ase文件，然后运行gui版本的程序，拖拽文件后选择保存目录并执行!
-[image](https://github.com/user-attachments/assets/74ab6809-a344-48de-b3f3-875f63601013)
+首先在ps中将aco另存为ase文件，然后运行gui版本的程序，拖拽文件后选择保存目录并执行
+![image](https://github.com/user-attachments/assets/74ab6809-a344-48de-b3f3-875f63601013)
 
 
 
